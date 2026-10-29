@@ -1,8 +1,8 @@
 ## Hola, soy Valentina 👋
 
 🎓 Estudiante de **Factoría F5** realizando un Bootcamp en Inteligencia Artificial
-🌱 Actualmente aprendiendo: ** Python, Pandas, Notion API, Análisis de Datos]**.
-🎯 Interesado en aprender sobre análisis de datos, desarrollo web con inteligencia Artificial.
+🌱 Actualmente aprendiendo: **Python, Pandas, Notion API, Análisis de Datos**.
+🎯 Interesada en aprender sobre análisis de datos, desarrollo web con inteligencia Artificial.
 
 ---
 
