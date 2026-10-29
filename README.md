@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hola, soy Valentina 👋
 
-<!--
-**valensalinas93-lgtm/valensalinas93-lgtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de **Factoría F5** realizando un Bootcamp en Inteligencia Artificial
+🌱 Actualmente aprendiendo: ** Python, Pandas, Notion API, Análisis de Datos]**.
+🎯 Interesado en aprender sobre análisis de datos, desarrollo web con inteligencia Artificial.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 🛠️ Tecnologías y Herramientas
+
+- **Lenguajes:** Python
+- **Herramientas & Entornos:** Git, GitHub, VS Code
+- **Productividad & Organización:** Notion, Markdown, Obsidian
+
+---
+
+### 📫 Contacto
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/valentinasalinasr/)
 -->
